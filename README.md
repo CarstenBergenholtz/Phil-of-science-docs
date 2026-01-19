@@ -4,19 +4,19 @@ Welcome to this repository. Here you can find various working papers, illustrati
 
 ### Available Documents
 
-📄 **[Randomized Controlled Trials (RCTs)](Bergenholtz%202026a%2C%20RCTs.pdf)**
+📄 **[Randomized Controlled Trials (RCTs)](Bergenholtz_2026a_RCTs.pdf)**
 *(Bergenholtz 2026a)*
 
-📄 **[Illustrating what an RCT is](Bergenholtz%202026b%2C%20illustrating%20what%20a%20RCT%20is.pdf)**
+📄 **[Illustrating what an RCT is](Bergenholtz_2026b_Illustrating_RCTs.pdf)**
 *(Bergenholtz 2026b)*
 
-📄 **[On Quasi-Experiments](Bergenholtz%202026c%2C%20on%20quasi-experiments.pdf)**
+📄 **[On Quasi-Experiments](Bergenholtz_2026c_quasi_experiments.pdf)**
 *(Bergenholtz 2026c)*
 
-📄 **[Research Designs](Bergenholtz%202026d%2C%20Research%20designs.pdf)**
+📄 **[Research Designs](Bergenholtz_2026d_Research_designs.pdf)**
 *(Bergenholtz 2026d)*
 
-📄 **[Research Design Pitfalls](Bergenholtz%202026e%2C%20Research%20design%20pitfalls.pdf)**
+📄 **[Research Design Pitfalls](Bergenholtz_2026e_Research_design_pitfalls.pdf)**
 *(Bergenholtz 2026e)*
 
 ---
