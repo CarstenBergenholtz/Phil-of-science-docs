@@ -4,9 +4,6 @@ Welcome to this repository. Here you can find various working papers and materia
 
 ### Available Documents
 
-📄 **[On Research Designs (Bergenholtz, 2026)](On_Research_Designs.pdf)**
-*A guide to understanding different research structures.*
-
 📄 **[Randomized Controlled Trials (RCTs) (Bergenholtz, 2026a)](RCTs.pdf)**
 *What are the key characteristics of an RCT?*
 
