@@ -1,6 +1,6 @@
 # Philosophy of Science Documents
 
-Welcome to this repository. Here you can find various working papers, illustrations, and materials related to the Philosophy of Science.
+Welcome to this repository. Here you can find various text from the Philosophy of Science/Videnskabelig Metode curriculum, HA/BSc, BSS, Aarhus University.
 
 ### Available Documents
 
