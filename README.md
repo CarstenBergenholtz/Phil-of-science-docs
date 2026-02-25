@@ -19,6 +19,12 @@ Welcome to this repository. Here you can find various text from the Philosophy o
 📄 **[Research Design Pitfalls](Bergenholtz_2026e_Research_design_pitfalls.pdf)**
 *(Bergenholtz 2026e)*
 
+📄 **[What is Theory?](Bergenholtz_2026f_What_is_theory.pdf)**
+*(Bergenholtz 2026f)*
+
+📄 **[GenAI in Science](Bergenholtz_2026g_GenAI_Science.pdf)**
+*(Bergenholtz 2026g)*
+
 ---
 
 ### How to access these files
